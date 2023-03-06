@@ -1,0 +1,38 @@
+.box{
+    margin: 5px 5px;
+    justify-content: center;
+    border: 2px  black;
+    display: grid;
+}
+
+.btn{
+    font-size: 2em;
+    color: black;
+    background-color: white;
+    border: none;
+    border-bottom: 1px solid black;
+}
+.btn:hover{
+    border-bottom: 3px solid black;
+}
+
+.form{
+    text-align: center;
+    
+}
+
+.form div{
+    padding: 2px;
+}
+.form button{
+    padding: 2px;
+    background-color: rgb(117, 91, 163);
+    width: 150px;
+    height: 40px;
+    color: white;
+    font-size: 18px;
+}
+.form button:hover{
+    background-color: rgb(72, 41, 124);
+    font-size: 19px;
+}
